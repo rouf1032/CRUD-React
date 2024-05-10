@@ -1,0 +1,25 @@
+li > span {
+    font-size: 0.9rem;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: red; */
+}
+
+button.btn {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+input#checkbox-input {
+    background-color: transparent;
+    color: transparent;
+}
+
